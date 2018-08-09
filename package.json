@@ -1,0 +1,18 @@
+{
+  "name": "mock-server-api",
+  "version": "1.0.0",
+  "description": "ลองสร้าง API Mock Data ",
+  "main": "index.html",
+  "scripts": {
+    "test": "api-dev"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "slur-dev",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  }
+}
